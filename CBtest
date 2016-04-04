@@ -80,7 +80,7 @@ CBtest<-function(x,s,data){
 
 	tnsq = 2*(N^2)
 	
-
+	w_n<-matrix(nr=N)
 	w_n[1:N]<-exp((-(1:N)^2)/tnsq)
 	
 	for(i in 1:N){
