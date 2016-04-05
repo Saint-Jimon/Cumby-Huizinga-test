@@ -3,7 +3,6 @@
 #######################################
 
 #Cumby-Huizinga autocorrelation test
-#Author: Stijn Jansen
 #Based on: Cumby, R. and Huizinga J., (1992) Econometrica; 
 #ivactest Baum; Schaffer
 
